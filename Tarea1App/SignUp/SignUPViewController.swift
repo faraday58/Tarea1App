@@ -11,7 +11,7 @@ class SignUPViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+       print("VIEW signUPCV")
         //Este es el StoryBoard de entrada
     }
     
