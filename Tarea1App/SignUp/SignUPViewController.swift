@@ -12,7 +12,7 @@ class SignUPViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        
+        //Este es el StoryBoard de entrada
     }
     
 
